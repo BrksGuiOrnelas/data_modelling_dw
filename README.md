@@ -1,9 +1,9 @@
-### Projeto de Engenharia de Dados - Retail Dynamics
+## Projeto de Engenharia de Dados - Retail Dynamics
 
-#### Visão Geral do Projeto
+### Visão Geral do Projeto
 Este é um projeto de Engenharia de Dados para a **Retail Dynamics**, uma empresa fictícia de varejo que opera em diversas regiões dos Estados Unidos. O objetivo principal é transformar dados de vendas e representantes de vendas de um banco de dados relacional para um modelo estrela em um banco de dados PostgreSQL. Este modelo é então visualizado usando Power BI para gerar dashboards informativos para os stakeholders da empresa.
 
-#### Dados de Origem
+### Dados de Origem
 O projeto utiliza dois arquivos CSV principais:
 1. **Sales_Data.csv**: Contém transações de vendas detalhadas, incluindo informações de clientes, produtos, lojas e representantes de vendas.
 2. **Sales_Rep_Data.csv**: Contém informações sobre os representantes de vendas.
