@@ -19,10 +19,10 @@ Os principais objetivos do projeto são:
 ### Estrutura do Projeto
 
 #### Estrutura Inicial
-![Estrutura Inicial](data:image/png;base64,base64_image_data)
+![Estrutura Inicial](Images/initial_structure.png)
 
 #### Estrutura Desejada
-![Estrutura Desejada](data:image/png;base64,base64_image_data)
+![Estrutura Desejada](Images/Desired_structure.png)
 
 ### Passos do Projeto
 
